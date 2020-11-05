@@ -12,7 +12,7 @@
     "eslint-plugin-react": "^4.3.0",
     "eslint-plugin-react-native": "^1.0.2",
     "fs-extra": "^1.0.0",
-    "lodash.mergewith": "^4.6.0",
+    "lodash.mergewith": "^4.6.2",
     "path-exists": "^3.0.0",
     "through2": "^2.0.1",
     "xml-js": "^0.9.7",
